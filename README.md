@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## My name is Cheyenne Edgar and I am a Computer Programming Student at Clover Park Technical College (CPTC). So nice to meet all of you!
+## Pronouns: She/Her
+## I am currently working on a collaborative project!
 <!--
 **CheyenneProgrammer96/CheyenneProgrammer96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
